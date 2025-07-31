@@ -1,0 +1,181 @@
+Student ID,Event Type,Department,Rating,Feedback,Sentiment
+S001,Workshop,CSE,5,Amazing workshop! Very engaging and useful.,negative
+S002,Seminar,ECE,4,Good speaker but the seminar felt too long.,neutral
+S003,Cultural,MECH,2,Too loud and disorganized event.,neutral
+S004,Workshop,EEE,5,Well-structured and informative session.,positive
+S005,Seminar,IT,3,"Slides were confusing, needs improvement.",neutral
+S006,Cultural,CIVIL,1,Bad coordination and no refreshments.,neutral
+S007,Workshop,CSE,4,Helpful content but a bit boring.,negative
+S008,Seminar,ECE,3,"Interesting seminar, but poor Q&A session.",negative
+S009,Cultural,MECH,2,Sound system was poor in cultural event.,positive
+S010,Workshop,EEE,5,Great delivery and pace of the workshop.,positive
+S011,Seminar,IT,2,It was hard to follow at some points.,positive
+S012,Cultural,CIVIL,1,Didn't enjoy the cultural show.,positive
+S013,Workshop,CSE,5,"Perfectly arranged, enjoyed every bit.",positive
+S014,Seminar,ECE,3,More examples would have helped.,positive
+S015,Cultural,MECH,2,Late start and unclear announcements.,positive
+S016,Workshop,EEE,4,"Valuable session, well explained topics.",positive
+S017,Seminar,IT,3,"The event started late, not well managed.",positive
+S018,Cultural,CIVIL,1,"Unclear topics, not engaging.",negative
+S019,Workshop,CSE,5,One of the best events attended.,neutral
+S020,Seminar,ECE,4,Pretty decent and informative talk.,neutral
+S021,Cultural,MECH,2,"Not much fun, expected more activities.",positive
+S022,Workshop,EEE,5,"Fantastic workshop, hands-on and practical.",positive
+S023,Seminar,IT,4,Well moderated session with good flow.,neutral
+S024,Cultural,CIVIL,1,"No engagement, felt disconnected.",neutral
+S025,Workshop,CSE,5,Outstanding knowledge sharing session.,neutral
+S026,Seminar,ECE,4,"Nice speaker, but lacked visual aids.",neutral
+S027,Cultural,MECH,2,Noisy and chaotic environment.,negative
+S028,Workshop,EEE,5,Excellent guidance and clarity.,positive
+S029,Seminar,IT,3,Speaker rushed through slides.,neutral
+S030,Cultural,CIVIL,1,Low energy from performers.,positive
+S031,Workshop,ECE,3,Amazing workshop! Very engaging and useful.,negative
+S032,Seminar,MECH,5,Good speaker but the seminar felt too long.,positive
+S033,Cultural,EEE,4,Too loud and disorganized event.,neutral
+S034,Workshop,IT,1,Well-structured and informative session.,positive
+S035,Seminar,CIVIL,2,"Slides were confusing, needs improvement.",negative
+S036,Cultural,CSE,2,Bad coordination and no refreshments.,positive
+S037,Workshop,ECE,3,Helpful content but a bit boring.,neutral
+S038,Seminar,MECH,4,"Interesting seminar, but poor Q&A session.",negative
+S039,Cultural,EEE,5,Sound system was poor in cultural event.,neutral
+S040,Workshop,IT,4,Great delivery and pace of the workshop.,positive
+S041,Seminar,CIVIL,1,It was hard to follow at some points.,positive
+S042,Cultural,CSE,4,Didn't enjoy the cultural show.,positive
+S043,Workshop,ECE,3,"Perfectly arranged, enjoyed every bit.",neutral
+S044,Seminar,MECH,3,More examples would have helped.,positive
+S045,Cultural,EEE,4,Late start and unclear announcements.,neutral
+S046,Workshop,IT,5,"Valuable session, well explained topics.",neutral
+S047,Seminar,CIVIL,2,"Not much fun, expected more activities.",negative
+S048,Cultural,CSE,3,"Fantastic workshop, hands-on and practical.",neutral
+S049,Workshop,ECE,1,Well moderated session with good flow.,positive
+S050,Seminar,MECH,4,"No engagement, felt disconnected.",neutral
+S051,Cultural,EEE,2,Outstanding knowledge sharing session.,positive
+S052,Workshop,IT,5,"Nice speaker, but lacked visual aids.",positive
+S053,Seminar,CIVIL,2,Noisy and chaotic environment.,positive
+S054,Cultural,CSE,3,Excellent guidance and clarity.,positive
+S055,Workshop,ECE,5,Speaker rushed through slides.,neutral
+S056,Seminar,MECH,4,Low energy from performers.,neutral
+S057,Cultural,EEE,1,Amazing workshop! Very engaging and useful.,neutral
+S058,Workshop,IT,2,Good speaker but the seminar felt too long.,neutral
+S059,Seminar,CIVIL,3,Too loud and disorganized event.,positive
+S060,Cultural,ECE,2,Well-structured and informative session.,neutral
+S061,Workshop,MECH,4,"Slides were confusing, needs improvement.",negative
+S062,Seminar,EEE,3,Noisy and chaotic environment.,neutral
+S063,Cultural,IT,2,Excellent guidance and clarity.,positive
+S064,Workshop,CIVIL,3,Speaker rushed through slides.,positive
+S065,Seminar,CSE,3,Low energy from performers.,neutral
+S066,Cultural,ECE,3,Amazing workshop! Very engaging and useful.,negative
+S067,Workshop,MECH,3,Good speaker but the seminar felt too long.,positive
+S068,Seminar,EEE,4,Too loud and disorganized event.,neutral
+S069,Cultural,IT,1,Well-structured and informative session.,neutral
+S070,Workshop,CIVIL,5,"Slides were confusing, needs improvement.",neutral
+S071,Seminar,CSE,2,Bad coordination and no refreshments.,neutral
+S072,Cultural,ECE,1,Helpful content but a bit boring.,positive
+S073,Workshop,MECH,3,"Interesting seminar, but poor Q&A session.",negative
+S074,Seminar,EEE,1,Sound system was poor in cultural event.,neutral
+S075,Cultural,IT,4,Great delivery and pace of the workshop.,neutral
+S076,Workshop,CIVIL,5,It was hard to follow at some points.,positive
+S077,Seminar,CSE,4,Didn't enjoy the cultural show.,positive
+S078,Cultural,ECE,3,"Perfectly arranged, enjoyed every bit.",positive
+S079,Workshop,MECH,2,More examples would have helped.,positive
+S080,Seminar,EEE,1,Late start and unclear announcements.,positive
+S081,Cultural,IT,3,"Valuable session, well explained topics.",positive
+S082,Workshop,CIVIL,2,"Not much fun, expected more activities.",neutral
+S083,Seminar,CSE,3,"Fantastic workshop, hands-on and practical.",positive
+S084,Cultural,ECE,5,Well moderated session with good flow.,negative
+S085,Workshop,MECH,4,"No engagement, felt disconnected.",neutral
+S086,Seminar,EEE,5,Outstanding knowledge sharing session.,positive
+S087,Seminar,IT,2,"Nice speaker, but lacked visual aids.",positive
+S088,Cultural,CIVIL,4,Noisy and chaotic environment.,negative
+S089,Workshop,ECE,1,Excellent guidance and clarity.,negative
+S090,Seminar,MECH,2,Speaker rushed through slides.,neutral
+S091,Cultural,EEE,3,Low energy from performers.,neutral
+S092,Workshop,IT,5,Amazing workshop! Very engaging and useful.,positive
+S093,Seminar,CIVIL,4,Good speaker but the seminar felt too long.,negative
+S094,Cultural,CSE,2,Too loud and disorganized event.,positive
+S095,Workshop,ECE,3,Well-structured and informative session.,neutral
+S096,Seminar,MECH,2,"Slides were confusing, needs improvement.",neutral
+S097,Cultural,EEE,3,Noisy and chaotic environment.,negative
+S098,Workshop,IT,1,Excellent guidance and clarity.,negative
+S099,Seminar,CIVIL,4,Speaker rushed through slides.,negative
+S100,Cultural,CSE,5,Low energy from performers.,neutral
+S101,Workshop,ECE,6,Amazing workshop! Very engaging and useful.,neutral
+S102,Seminar,MECH,2,Good speaker but the seminar felt too long.,neutral
+S103,Cultural,EEE,3,Too loud and disorganized event.,neutral
+S104,Workshop,IT,3,Well-structured and informative session.,neutral
+S105,Seminar,CIVIL,4,"Slides were confusing, needs improvement.",positive
+S106,Cultural,CSE,1,Bad coordination and no refreshments.,negative
+S107,Workshop,ECE,2,Helpful content but a bit boring.,negative
+S108,Seminar,MECH,3,"Interesting seminar, but poor Q&A session.",negative
+S109,Cultural,EEE,2,Sound system was poor in cultural event.,neutral
+S110,Workshop,IT,4,Great delivery and pace of the workshop.,negative
+S111,Seminar,CIVIL,3,It was hard to follow at some points.,negative
+S112,Cultural,CSE,2,Didn't enjoy the cultural show.,neutral
+S113,Workshop,ECE,3,"Perfectly arranged, enjoyed every bit.",negative
+S114,Seminar,MECH,3,More examples would have helped.,neutral
+S115,Cultural,EEE,3,Late start and unclear announcements.,negative
+S116,Workshop,IT,3,"Valuable session, well explained topics.",negative
+S117,Seminar,CIVIL,4,"Not much fun, expected more activities.",negative
+S118,Cultural,ECE,1,"Fantastic workshop, hands-on and practical.",neutral
+S119,Workshop,MECH,5,Well moderated session with good flow.,negative
+S120,Seminar,EEE,2,"No engagement, felt disconnected.",positive
+S121,Cultural,IT,4,Outstanding knowledge sharing session.,neutral
+S122,Workshop,CIVIL,1,"Nice speaker, but lacked visual aids.",negative
+S123,Seminar,CSE,2,Noisy and chaotic environment.,positive
+S124,Cultural,ECE,3,One of the best events attended.,negative
+S125,Workshop,MECH,2,Pretty decent and informative talk.,positive
+S126,Seminar,EEE,4,"Not much fun, expected more activities.",negative
+S127,Seminar,IT,3,"Fantastic workshop, hands-on and practical.",positive
+S128,Cultural,CIVIL,2,Well moderated session with good flow.,positive
+S129,Workshop,CSE,3,"No engagement, felt disconnected.",neutral
+S130,Seminar,ECE,3,Outstanding knowledge sharing session.,neutral
+S131,Cultural,IT,3,"Nice speaker, but lacked visual aids.",positive
+S132,Workshop,CIVIL,3,Noisy and chaotic environment.,positive
+S133,Seminar,CSE,4,Excellent guidance and clarity.,positive
+S134,Cultural,ECE,1,Speaker rushed through slides.,positive
+S135,Workshop,MECH,5,Low energy from performers.,negative
+S136,Seminar,EEE,2,Amazing workshop! Very engaging and useful.,neutral
+S137,Cultural,IT,3,Good speaker but the seminar felt too long.,neutral
+S138,Workshop,CIVIL,2,Too loud and disorganized event.,negative
+S139,Seminar,CSE,1,Well-structured and informative session.,negative
+S140,Cultural,ECE,3,"Slides were confusing, needs improvement.",negative
+S141,Workshop,MECH,5,Bad coordination and no refreshments.,neutral
+S142,Seminar,EEE,1,Helpful content but a bit boring.,positive
+S143,Cultural,IT,1,"Interesting seminar, but poor Q&A session.",neutral
+S144,Workshop,CIVIL,1,Sound system was poor in cultural event.,positive
+S145,Seminar,CSE,1,Amazing workshop! Very engaging and useful.,neutral
+S146,Cultural,ECE,4,Good speaker but the seminar felt too long.,positive
+S147,Workshop,MECH,5,Too loud and disorganized event.,neutral
+S148,Seminar,EEE,4,Well-structured and informative session.,negative
+S149,Cultural,IT,1,"Slides were confusing, needs improvement.",neutral
+S150,Workshop,CIVIL,2,Bad coordination and no refreshments.,negative
+S151,Seminar,CSE,3,Helpful content but a bit boring.,neutral
+S152,Cultural,ECE,2,"Interesting seminar, but poor Q&A session.",positive
+S153,Workshop,MECH,4,"Slides were confusing, needs improvement.",negative
+S154,Seminar,EEE,3,Noisy and chaotic environment.,negative
+S155,Cultural,IT,2,Excellent guidance and clarity.,negative
+S156,Workshop,CIVIL,3,Speaker rushed through slides.,neutral
+S157,Seminar,ECE,3,Low energy from performers.,positive
+S158,Cultural,MECH,3,Amazing workshop! Very engaging and useful.,neutral
+S159,Workshop,EEE,3,"Interesting seminar, but poor Q&A session.",negative
+S160,Seminar,IT,4,Sound system was poor in cultural event.,neutral
+S161,Cultural,CIVIL,1,Amazing workshop! Very engaging and useful.,negative
+S162,Workshop,CSE,5,Good speaker but the seminar felt too long.,neutral
+S163,Seminar,ECE,2,Too loud and disorganized event.,positive
+S164,Cultural,MECH,5,Well-structured and informative session.,neutral
+S165,Workshop,EEE,4,"Slides were confusing, needs improvement.",positive
+S166,Seminar,IT,3,Bad coordination and no refreshments.,neutral
+S167,Seminar,CIVIL,2,Helpful content but a bit boring.,positive
+S168,Cultural,CSE,4,"Interesting seminar, but poor Q&A session.",positive
+S169,Workshop,IT,5,"Slides were confusing, needs improvement.",negative
+S170,Seminar,CIVIL,3,Noisy and chaotic environment.,positive
+S171,Cultural,CSE,4,Excellent guidance and clarity.,neutral
+S172,Workshop,ECE,2,Speaker rushed through slides.,negative
+S173,Seminar,MECH,3,Low energy from performers.,negative
+S174,Cultural,EEE,4,"Valuable session, well explained topics.",negative
+S175,Workshop,IT,4,"Not much fun, expected more activities.",neutral
+S176,Seminar,CIVIL,4,"Fantastic workshop, hands-on and practical.",negative
+S177,Cultural,CSE,2,Well moderated session with good flow.,negative
+S178,Workshop,ECE,3,"No engagement, felt disconnected.",negative
+S179,Seminar,MECH,3,Outstanding knowledge sharing session.,positive
+S180,Cultural,EEE,4,"Nice speaker, but lacked visual aids.",neutral
