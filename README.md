@@ -1,4 +1,4 @@
-# 📊FUTUREINTERNS TASK 3 – College Event Feedback Analysis
+# 📊FUTURE INTERNS TASK 3 – College Event Feedback Analysis
 
 ### 🏫 Domain: Data Science & Analytics  
 *Track Code*: FUTURE_DS_03  
